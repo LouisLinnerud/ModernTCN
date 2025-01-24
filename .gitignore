@@ -1,0 +1,16 @@
+# Ignore virtual environment
+MtcnVenv/
+
+# Ignore data folder
+data/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore logs
+*.log
+
+# Ignore temporary/system files
+*.tmp
+*.swp
+.DS_Store
